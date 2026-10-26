@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="Thanks for stopping by. Have a lovely day!">
+  <defs><linearGradient id="wave"><stop stop-color="#ffb49c"/><stop offset=".5" stop-color="#fda6d1"/><stop offset="1" stop-color="#b4a5ff"/></linearGradient></defs>
+  <path d="M0 32Q150 1 300 32T600 32T900 32T1200 32V110H0Z" fill="url(#wave)" opacity=".25"/>
+  <path d="M0 49Q150 23 300 49T600 49T900 49T1200 49V110H0Z" fill="url(#wave)" opacity=".45"/>
+  <text x="600" y="85" text-anchor="middle" fill="#725c85" font-family="'Segoe UI',Arial,sans-serif" font-size="14" letter-spacing="1">✦ Thanks for stopping by. Have a lovely day! ✦</text>
+</svg>
