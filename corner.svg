@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="164" viewBox="0 0 900 164" role="img" aria-label="Explore · Create · Enjoy the journey">
+  <g font-family="'Segoe UI',Arial,sans-serif">
+    <rect x="1" y="1" width="286" height="162" rx="20" fill="#fff3e8" stroke="#ffdcc3"/>
+    <rect x="307" y="1" width="286" height="162" rx="20" fill="#fff0f6" stroke="#ffd0e5"/>
+    <rect x="613" y="1" width="286" height="162" rx="20" fill="#f3efff" stroke="#ddd2ff"/>
+    <g transform="translate(28 27)" stroke="#dc8b44" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="18" r="17"/><path d="M24 11l-4 10-10 4 4-10z"/></g>
+    <g transform="translate(337 26)" stroke="#d6649b" fill="none" stroke-width="2.2" stroke-linecap="round"><path d="M15 4a11 11 0 0 0-7 19l2 5h10l2-5a11 11 0 0 0-7-19zM10 33h10M15 0v-4M0 9l-4-2M30 9l4-2"/></g>
+    <g transform="translate(642 26)" stroke="#9571d5" fill="none" stroke-width="2.2" stroke-linecap="round"><path d="M6 31C-5 16 0 1 17 4c6-7 19 0 15 10C42 28 24 38 17 31c-4 3-8 3-11 0z"/><path d="M8 21q10 10 17-1"/><circle cx="9" cy="13" r="1"/><circle cx="23" cy="12" r="1"/></g>
+    <g font-size="12" letter-spacing="2.5" font-weight="800"><text x="28" y="99" fill="#a96a34">EXPLORE</text><text x="334" y="99" fill="#ba4c82">CREATE</text><text x="640" y="99" fill="#7653b4">ENJOY</text></g>
+    <g font-size="16" fill="#695d70"><text x="28" y="130">Follow a little curiosity.</text><text x="334" y="130">Give an idea a beginning.</text><text x="640" y="130">Find joy in the journey.</text></g>
+  </g>
+</svg>
