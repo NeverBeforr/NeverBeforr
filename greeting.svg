@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="62" viewBox="0 0 680 62" role="img" aria-label="Hello, world!">
+  <style>
+    .cursor{animation:blink 1.2s steps(2,end) infinite}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @media(prefers-reduced-motion:reduce){.cursor{animation:none}}
+  </style>
+  <g fill="#a15da9" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-weight="700" font-size="24">
+    <text x="340" y="39">✦ Hello, world! ✦</text>
+    <rect class="cursor" x="447" y="20" width="3" height="24" rx="1"/>
+  </g>
+</svg>
